@@ -8,7 +8,7 @@ A simple Simon Says game implemented on an Arduino Uno, based on [A Simple Simon
 - x4 Pushbuttons
 - x4 1k resistors
 - x4 10k resistors
-Jumper wires as needed (YMMV)
+- Jumper wires as needed (YMMV)
 - x1 Piezo buzzer
 
 ## Schematics

@@ -122,7 +122,6 @@ void get_sequence()
         pressed = 1;
         shine_led(LED1_PIN, 200);
         your_sequence[i] = LED1_PIN;
-
       }
       
       if (digitalRead(BTN2_PIN) == LOW)
